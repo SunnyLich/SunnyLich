@@ -5,7 +5,8 @@
 
 
 If you are interested in any of my work, you can contact me through my email
-Email: sunnylch@outlook.com
+
+Email Address: sunnylch@outlook.com
 
 <!---
 SunnyLich/SunnyLich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
